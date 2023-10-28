@@ -1,0 +1,1 @@
+"D:\微信web开发者工具\cli.bat" cloud functions deploy --e q-video-3gwl0tkx6772aa51 --n quickstartFunctions --r --project "D:\Desktop\学习\web\QVideo" --report_first --report
